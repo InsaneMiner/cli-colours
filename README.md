@@ -9,5 +9,7 @@ int main(){
 }
 ```
 Output:
+<div class="text-green">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 
-[hello world in green text](+)
