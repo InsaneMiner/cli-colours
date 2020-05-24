@@ -9,7 +9,7 @@ int main(){
 }
 ```
 Output:
-<div class="text-green mb-2 ml-4">
-  .text-green on white
-</div>
+hello world in green text
+
+the output will be green but i cant get green text in my readme.md file
 
