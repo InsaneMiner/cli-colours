@@ -10,5 +10,5 @@ int main(){
 ```
 Output:
 ```diff
-+ hello world in green text
+hello world in green text
 ```
