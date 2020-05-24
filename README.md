@@ -1,5 +1,6 @@
 # colours-for-terminal-c-linux-and-mac
 I have writtin a basic library that allows you to print coloured text to the screen.
+c++
 ```c++
 #include <iostream>
 #include "colours"
