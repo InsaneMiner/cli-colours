@@ -10,4 +10,4 @@ int main(){
 ```
 Output:
 
-[#1589F0]hello world in green text '#1589F0'
+(&#x1F49A;)hello world in green text
