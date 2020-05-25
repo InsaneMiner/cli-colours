@@ -3,7 +3,7 @@ I have writtin a basic library that allows you to print coloured text to the scr
 c++
 ```c++
 #include <iostream>
-#include "colours"
+#include "colours.h"
 
 int main(){
     cout << fg.green << "hello world in green text" << cl.reset << endl;  
