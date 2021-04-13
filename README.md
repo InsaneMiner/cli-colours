@@ -1,4 +1,4 @@
-# colours-for-terminal-c-linux-and-mac
+# cli-colours
 I have writtin a basic library that allows you to print coloured text to the screen.
 c++
 ```c++
@@ -14,4 +14,3 @@ hello world in green text
 
 the output will be green but i cant get green text in my readme.md file
 
-has been tested on linux but not mac but should work.
